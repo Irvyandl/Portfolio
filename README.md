@@ -9,7 +9,7 @@ Welcome! I'm Irvin, a passionate aspiring Data Analyst with hands-on experience 
 - Included performance tracking, KPIs, and client segmentation.
 - ### 📈 Power BI Report
 
-- 🔗 [Download Power BI File](https://github.com/Irvyandl/Report-Portafolio/blob/main/SalesReportBI.pbix?raw=true)
+- 🔗 [Download Power BI File](https://github.com/Irvyandl/Report-Portafolio/blob/c1ade7570ebead550cec6012dcca2558d9eef2c4/SalesReportBI.pbix?raw=true)
 
 
 
