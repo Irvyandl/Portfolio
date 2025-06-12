@@ -1,4 +1,4 @@
-# 📊 Irvin's Data Portfolio
+# 📊 Irvin's Data Analysis Portfolio
 
 Welcome! I'm Irvin, a passionate aspiring Data Analyst with hands-on experience in building, cleaning, and designing dashboards using Power BI and Excel.
 
@@ -6,7 +6,7 @@ Welcome! I'm Irvin, a passionate aspiring Data Analyst with hands-on experience 
 
 ### 🔹 Local Client Sales Dashboard
 - Designed a Power BI dashboard using 7000+ rows of raw data.
-- Included performance tracking, KPIs, and client segmentation.
+- Included visuals for performance tracking, and segmentation by year and region.
 - ### 📈 Power BI Report
 
 - 🔗 [Download Power BI File](https://github.com/Irvyandl/Report-Portafolio/blob/c1ade7570ebead550cec6012dcca2558d9eef2c4/SalesReportBI.pbix?raw=true)
@@ -15,6 +15,7 @@ Welcome! I'm Irvin, a passionate aspiring Data Analyst with hands-on experience 
 
 ## 🛠️ Tools & Skills
 - Power BI
+- SQl Management Studio
 - Excel (Advanced)
 - Data Cleaning
 - Visualization
@@ -22,7 +23,7 @@ Welcome! I'm Irvin, a passionate aspiring Data Analyst with hands-on experience 
 
 ---
 
-💌 I'm currently looking for remote opportunities.  
-📄 [Download my CV](https://drive.google.com/file/d/154tSUXWKbIm_BZ10fDUz7Sty8qeaMTVf/view?usp=sharing)
+## 💌 I'm currently looking for remote opportunities.  
+📄 [Download my CV for further information](https://drive.google.com/file/d/154tSUXWKbIm_BZ10fDUz7Sty8qeaMTVf/view?usp=sharing)
 
 ---
