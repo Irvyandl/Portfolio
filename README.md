@@ -5,7 +5,7 @@ Welcome! I'm Irvin, a passionate aspiring Data Analyst with hands-on experience 
 ## 💼 Featured Projects
 
 ### 🔹 Local Client Sales Dashboard
-- Designed a Power BI dashboard using 8000+ rows of raw data.
+- Designed a Power BI dashboard using 7000+ rows of raw data.
 - Included performance tracking, KPIs, and client segmentation.
 - 🔗 [View sample image](https://drive.google.com/file/d/17YP-IpH5DR4Y0qutiBoe4S56eQbyYCse/view?usp=sharing)
 
@@ -19,6 +19,6 @@ Welcome! I'm Irvin, a passionate aspiring Data Analyst with hands-on experience 
 ---
 
 💌 I'm currently looking for remote opportunities.  
-📄 [Download my CV](file:///C:/Users/ajepa/Downloads/Resume%20(1).pdf)
+📄 [Download my CV](https://drive.google.com/file/d/154tSUXWKbIm_BZ10fDUz7Sty8qeaMTVf/view?usp=sharing)
 
 ---
