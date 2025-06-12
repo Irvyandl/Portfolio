@@ -1,2 +1,24 @@
-# Report-Portafolio
-To showcase my Power BI &amp; Data Management, I provide this Power BI Dashboard I built as a project. Thanks for watching.
+# 📊 Irvin's Data Portfolio
+
+Welcome! I'm Irvin, a passionate aspiring Data Analyst with hands-on experience in building, cleaning, and designing dashboards using Power BI and Excel.
+
+## 💼 Featured Projects
+
+### 🔹 Local Client Sales Dashboard
+- Designed a Power BI dashboard using 8000+ rows of raw data.
+- Included performance tracking, KPIs, and client segmentation.
+- 🔗 [View sample image](https://drive.google.com/file/d/17YP-IpH5DR4Y0qutiBoe4S56eQbyYCse/view?usp=sharing)
+
+## 🛠️ Tools & Skills
+- Power BI
+- Excel (Advanced)
+- Data Cleaning
+- Visualization
+- Dashboard Design
+
+---
+
+💌 I'm currently looking for remote opportunities.  
+📄 [Download my CV](file:///C:/Users/ajepa/Downloads/Resume%20(1).pdf)
+
+---
