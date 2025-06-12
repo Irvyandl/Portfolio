@@ -8,7 +8,9 @@ Welcome! I'm Irvin, a passionate aspiring Data Analyst with hands-on experience 
 - Designed a Power BI dashboard using 7000+ rows of raw data.
 - Included performance tracking, KPIs, and client segmentation.
 - ### 📈 Power BI Report
--  [Download Power BI File](https://github.com/Irvyandl/Report-Portafolio/blob/main/SalesReportBI.pbix?raw=true)
+
+- 🔗 [Download Power BI File](https://github.com/Irvyandl/Report-Portafolio/blob/main/SalesReportBI.pbix?raw=true)
+
 
 
 ## 🛠️ Tools & Skills
