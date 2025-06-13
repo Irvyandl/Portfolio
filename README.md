@@ -6,7 +6,7 @@ Welcome! I'm Irvin — a passionate, aspiring Data Analyst with hands-on experie
 
 ## 💼 Featured Projects
 
-### 🔹 Local Client Sales Dashboard
+### 🔹 Sales Dashboard
 - Designed an interactive Power BI dashboard from **7,000+ rows** of raw sales data.
 - Included visuals for **performance tracking**, with segmentation by **year and region**.
 - Enabled teams to quickly understand business performance and adjust strategy.
