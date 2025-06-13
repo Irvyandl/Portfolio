@@ -12,7 +12,7 @@ Welcome! I'm Irvin — a passionate, aspiring Data Analyst with hands-on experie
 - Enabled teams to quickly understand business performance and adjust strategy.
 
 📈 **Power BI Report:**  
-[🔗 View/Download the .pbix file](https://github.com/Irvyandl/Report-Portafolio/blob/c1ade7570ebead550cec6012dcca2558d9eef2c4/SalesReportBI.pbix?raw=true)
+[🔗 Download the .pbix file](https://github.com/Irvyandl/Report-Portafolio/blob/c1ade7570ebead550cec6012dcca2558d9eef2c4/SalesReportBI.pbix?raw=true)
 
 ---
 
@@ -37,4 +37,6 @@ Welcome! I'm Irvin — a passionate, aspiring Data Analyst with hands-on experie
 
 ## 💌 I'm currently open to **remote opportunities**!
 
-📄 [Download my CV](https://drive.google.com/file/d/154tSUXWKbIm_BZ10fDUz7Sty8qeaMTVf/view?usp=sharing) for more details about my background, skills, and experience.
+📄 [View my CV](https://docs.google.com/document/d/1ffsbCt0xEDJIqUCOx2sUro9UehsnqMH1rEG31T-tdYU/edit?usp=drive_link) for more details about my background, skills, and experience.
+✉ Or you can directly contact me on my [Linkedin Profile](www.linkedin.com/in/irvin-prado-6961b1363).
+## Thanks for reading, *I look forward hearing from you!!!* - Irvin.
