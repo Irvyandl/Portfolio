@@ -37,6 +37,7 @@ Welcome! I'm Irvin — a passionate, aspiring Data Analyst with hands-on experie
 
 ## 💌 I'm currently open to **remote opportunities**!
 
-📄 [View my CV](https://docs.google.com/document/d/1ffsbCt0xEDJIqUCOx2sUro9UehsnqMH1rEG31T-tdYU/edit?usp=drive_link) for more details about my background, skills, and experience.
-✉ Or you can directly contact me on my [Linkedin Profile](www.linkedin.com/in/irvin-prado-6961b1363).
+📄 [View my CV](https://docs.google.com/document/d/1ffsbCt0xEDJIqUCOx2sUro9UehsnqMH1rEG31T-tdYU/edit?usp=drive_link) for more details about my background and skills.
+
+✉ Or you can directly contact me on my [Linkedin Profile](http://www.linkedin.com/in/irvin-prado-6961b1363).
 ## Thanks for reading, *I look forward hearing from you!!!* - Irvin.
