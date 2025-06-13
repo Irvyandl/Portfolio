@@ -9,7 +9,7 @@ Welcome! I'm Irvin — a passionate, aspiring Data Analyst with hands-on experie
 ### 🔹 Sales Dashboard
 - Designed an interactive Power BI dashboard from **7,000+ rows** of raw sales data.
 - Included visuals for **performance tracking**, with segmentation by **year and region**.
-- Enabled teams to quickly understand business performance and adjust strategy.
+- Enabled quickly understanding of business performance in different fields.
 
 📈 **Power BI Report:**  
 [🔗 Download the .pbix file](https://github.com/Irvyandl/Report-Portafolio/blob/c1ade7570ebead550cec6012dcca2558d9eef2c4/SalesReportBI.pbix?raw=true)
