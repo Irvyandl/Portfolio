@@ -42,7 +42,7 @@ Welcome! I'm Irvin — a bilingual (En - ES), passionate, aspiring Data Analyst 
 
 ## 🌐 I'm currently open to **remote opportunities**!
 
-📄 [View my CV](https://drive.google.com/file/d/1-lRf-QMuqrXj3DZDdTwrcuqyEFWO02vE/view?usp=drive_link) for more details about my background and skills.
+📄 [View my CV](https://drive.google.com/file/d/1H9HY6Dde-3ItHKDEBV3LqgrtR0PxsNB2/view?usp=drive_link) for more details about my background and skills.
 
 📬 Or you can directly contact me on my [Linkedin Profile](http://www.linkedin.com/in/irvin-prado-6961b1363).
 ## Thanks for reading, *I look forward hearing from you!!!* - Irvin.
