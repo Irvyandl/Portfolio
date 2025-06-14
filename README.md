@@ -1,6 +1,6 @@
 # 📊 Irvin's Data Analysis Portfolio
 
-Welcome! I'm Irvin — a bilingual (En - ES), passionate, aspiring Data Analyst with hands-on experience in **data cleaning, modeling, and dashboard design** using Power BI and Excel. I specialize in turning raw data into **actionable insights** to support informed decision-making and tracking across teams.
+Welcome! I'm Irvin — a bilingual (En - ES), passionate, aspiring Data Analyst with hands-on experience in **data cleaning, modeling, and dashboard design** using Power BI and Excel. I specialize in turning raw data into **actionable insights** to support informed decision-making and perfomance tracking across teams.
 
 ---
 
