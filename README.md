@@ -1,6 +1,6 @@
 # 📊 Irvin's Data Analysis Portfolio
 
-Welcome! I'm Irvin — a bilingual (En - ES), passionate, aspiring Data Analyst with hands-on experience in **data cleaning, modeling, and dashboard design** using Power BI and Excel. I specialize in turning raw data into **actionable insights** to support informed decision-making across teams.
+Welcome! I'm Irvin — a bilingual (En - ES), passionate, aspiring Data Analyst with hands-on experience in **data cleaning, modeling, and dashboard design** using Power BI and Excel. I specialize in turning raw data into **actionable insights** to support informed decision-making and tracking across teams.
 
 ---
 
@@ -21,6 +21,7 @@ Welcome! I'm Irvin — a bilingual (En - ES), passionate, aspiring Data Analyst 
 
 ## 👨🏻‍💻 What I Bring to a Team
 
+- ✅ English/Spanish Data interpretation if needed
 - ✅ Data cleaning and transformation from unstructured sources  
 - ✅ Building functional data models (Relationships, DAX Measures)  
 - ✅ Dynamic customer filtering, segmentation, and categorization  
@@ -30,6 +31,7 @@ Welcome! I'm Irvin — a bilingual (En - ES), passionate, aspiring Data Analyst 
 
 ## 🛠️ Tools & Skills Used In perfomance
 
+- **English** (C1 Level)
 - **Power BI** (Advanced)  
 - **SQL Server Management Studio** (Proficient)  
 - **Excel** (Advanced)  
@@ -38,9 +40,9 @@ Welcome! I'm Irvin — a bilingual (En - ES), passionate, aspiring Data Analyst 
 
 ---
 
-## 💌 I'm currently open to **remote opportunities**!
+## 🌐 I'm currently open to **remote opportunities**!
 
 📄 [View my CV](https://drive.google.com/file/d/1-lRf-QMuqrXj3DZDdTwrcuqyEFWO02vE/view?usp=drive_link) for more details about my background and skills.
 
-✉ Or you can directly contact me on my [Linkedin Profile](http://www.linkedin.com/in/irvin-prado-6961b1363).
+📬 Or you can directly contact me on my [Linkedin Profile](http://www.linkedin.com/in/irvin-prado-6961b1363).
 ## Thanks for reading, *I look forward hearing from you!!!* - Irvin.
