@@ -12,7 +12,7 @@ Welcome! I'm Irvin — a bilingual (En - ES), passionate, aspiring Data Analyst 
 - Enabled quickly understanding of business performance in different fields.
 
 📈 **Power BI Report:**  
-![Dashboard Preview](Screenshot 2025-06-12 131758.png)
+![Dashboard Preview](https://github.com/Irvyandl/Portfolio/blob/main/Screenshot%202025-06-12%20131758.png)
 [🔗 Download the .pbix file](https://github.com/Irvyandl/Report-Portafolio/blob/c1ade7570ebead550cec6012dcca2558d9eef2c4/SalesReportBI.pbix?raw=true)
 
 ---
