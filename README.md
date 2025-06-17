@@ -12,14 +12,14 @@ I'm a passionate and detail-oriented aspiring Data Analyst with strong communica
 - Data modeling (Power Pivot, DAX)
 - Data transformation (Power Query, SQL Server)
 - Storytelling with data for business decisions
+- Translating Spanish-language data into English insights
 
 ---
 
 ## 📈 Featured Project: Sales Performance Dashboard
 
 ### 📝 Overview
-This project analyzes over **7,000 sales transactions** and presents business performance insights across regions and years. 
-It includes customer tier segmentation and warehouse distribution logic using DAX.
+This project analyzes over **7,000 sales transactions** and presents business performance insights across regions and years. It includes customer tier segmentation and warehouse distribution logic using DAX. The dataset originated in Spanish, and the final report was translated and adapted into English for broader communication and stakeholder use.
 
 ### ⚙️ Tools & Skills Used
 - Power BI
@@ -27,6 +27,7 @@ It includes customer tier segmentation and warehouse distribution logic using DA
 - DAX (Custom Measures)
 - Data storytelling
 - Slicers and Filters
+- Language translation (ES > EN data adaptation)
 
 ### 🧩 Key Features
 - **Interactive dashboard** with year and region filters
@@ -46,12 +47,13 @@ It includes customer tier segmentation and warehouse distribution logic using DA
 ## 🧰 Skills Overview
 ```text
 Power BI          ██████████  Advanced
-Excel             █████████░  Advanced
-SQL Server        ████████░░  Proficient
-Power Query       █████████░  Advanced
-DAX               ████████░░  Proficient
-Dashboard Design  █████████░  Advanced
+Excel             ████████▉  Advanced
+SQL Server        ███████▉▉  Proficient
+Power Query       ████████▉  Advanced
+DAX               ███████▉▉  Proficient
+Dashboard Design  ████████▉  Advanced
 English (C1)      ██████████  Certified
+Spanish (Native)  ██████████  Fluent
 ```
 
 ---
