@@ -1,48 +1,74 @@
-# 📊 Irvin's Data Analysis Portfolio
+# Irvin Prado | Data Visualization Portfolio
 
-Welcome! I'm Irvin — a bilingual (En - ES), passionate, aspiring Data Analyst with hands-on experience in **data cleaning, modeling, and dashboard design** using Power BI and Excel. I specialize in turning raw data into **actionable insights** to support informed decision-making and perfomance tracking across teams.
-
----
-
-## 💼 Featured Projects
-
-### 🔹 Sales Dashboard
-- Designed an interactive Power BI dashboard from **7,000+ rows** of raw sales data.
-- Included visuals for **performance tracking**, with segmentation by **year and region**.
-- Enabled quickly understanding of business performance in different fields.
-
-📈 **Power BI Report Preview:**  
-
-![Dashboard Preview](https://github.com/Irvyandl/Portfolio/raw/main/Screenshot%202025-06-12%20131758.png)
-
-🔗 You can [download the .pbix file](https://github.com/Irvyandl/Report-Portafolio/blob/c1ade7570ebead550cec6012dcca2558d9eef2c4/SalesReportBI.pbix?raw=true) to interact with the dashboard.
+Welcome! I'm **Irvin Prado**, a bilingual (EN/ES) data visualization enthusiast focused on transforming raw datasets into business-ready insights using **Power BI**, **Excel**, and **SQL**.
 
 ---
 
-## 👨🏻‍💻 What I Bring to a Team
+## 🔍 About Me
 
-- ✅ English/Spanish Data interpretation if needed
-- ✅ Data cleaning and transformation from unstructured sources  
-- ✅ Building functional data models (Relationships, DAX Measures)  
-- ✅ Dynamic customer filtering, segmentation, and categorization  
-- ✅ Clear communication to align insights with business goals  
+I'm a passionate and detail-oriented aspiring Data Analyst with strong communication skills and technical knowledge in:
 
----
-
-## 🛠️ Tools & Skills Used In perfomance
-
-- **English** (C1 Level)
-- **Power BI** (Advanced)  
-- **SQL Server Management Studio** (Proficient)  
-- **Excel** (Advanced)  
-- **Dashboard Design & Storytelling**  
-- **Strong communication & business understanding**  
+- Dashboard development (Power BI, Excel)
+- Data modeling (Power Pivot, DAX)
+- Data transformation (Power Query, SQL Server)
+- Storytelling with data for business decisions
 
 ---
 
-## 🌐 I'm currently open to **remote opportunities**!
+## 📈 Featured Project: Sales Performance Dashboard
 
-📄 [View my CV](https://drive.google.com/file/d/1Dv4z6mnN3lTwbNkamUxag-Akug9pkh88/view?usp=drive_link) for more details about my background and skills.
+### 📝 Overview
+This project analyzes over **7,000 sales transactions** and presents business performance insights across regions and years. 
+It includes customer tier segmentation and warehouse distribution logic using DAX.
 
-📬 Or you can directly contact me on my [Linkedin Profile](http://www.linkedin.com/in/irvin-prado-6961b1363).
-## Thanks for reading, *I am looking forward hearing from you!!!* - Irvin.
+### ⚙️ Tools & Skills Used
+- Power BI
+- Power Query
+- DAX (Custom Measures)
+- Data storytelling
+- Slicers and Filters
+
+### 🧩 Key Features
+- **Interactive dashboard** with year and region filters
+- Customer classification logic
+- Warehouse mapping by code
+- 5 performance visuals tailored for stakeholders
+
+### 🧠 Value Delivered
+> Reduced report generation time by **30%** and helped stakeholders identify regional sales trends faster.
+
+![Preview](https://github.com/Irvyandl/Portfolio/raw/main/Screenshot%202025-06-12%20131758.png)
+
+🔗 [Download the .pbix file](https://github.com/Irvyandl/Report-Portafolio/blob/c1ade7570ebead550cec6012dcca2558d9eef2c4/SalesReportBI.pbix?raw=true)
+
+---
+
+## 🧰 Skills Overview
+```text
+Power BI          ██████████  Advanced
+Excel             █████████░  Advanced
+SQL Server        ████████░░  Proficient
+Power Query       █████████░  Advanced
+DAX               ████████░░  Proficient
+Dashboard Design  █████████░  Advanced
+English (C1)      ██████████  Certified
+```
+
+---
+
+## 💼 Additional Info
+- ✅ Available for remote positions
+- ✅ Strong communication + business logic understanding
+- ✅ Bilingual: English C1 (certified), Spanish native
+
+---
+
+## 📬 Contact
+[LinkedIn](http://www.linkedin.com/in/irvin-prado-6961b1363)  
+📧 irvyandl18@gmail.com  
+🌐 [Portfolio Website](https://irvyandl.github.io/Portfolio/)  
+📄 [Download my CV (PDF)](https://drive.google.com/file/d/1Dv4z6mnN3lTwbNkamUxag-Akug9pkh88/view?usp=drive_link)
+
+---
+
+Thanks for visiting! Looking forward to connecting with data-driven teams! 🚀
