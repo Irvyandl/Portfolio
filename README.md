@@ -47,15 +47,14 @@ This project analyzes over **7,000 sales transactions** and presents business pe
 ## 🧰 Skills Overview
 ```text
 Power BI          ██████████  Advanced
-Excel             ████████▉  Advanced
-SQL Server        ███████▉▉  Proficient
-Power Query       ████████▉  Advanced
-DAX               ███████▉▉  Proficient
-Dashboard Design  ████████▉  Advanced
+Excel             █████████░  Advanced
+SQL Server        ████████░░  Proficient
+Power Query       █████████░  Advanced
+DAX               ████████░░  Proficient
+Dashboard Design  █████████░  Advanced
 English (C1)      ██████████  Certified
 Spanish (Native)  ██████████  Fluent
 ```
-
 ---
 
 ## 💼 Additional Info
@@ -69,7 +68,7 @@ Spanish (Native)  ██████████  Fluent
 [LinkedIn](http://www.linkedin.com/in/irvin-prado-6961b1363)  
 📧 irvyandl18@gmail.com  
 🌐 [Portfolio Website](https://irvyandl.github.io/Portfolio/)  
-📄 [Download my CV (PDF)](https://drive.google.com/file/d/1Dv4z6mnN3lTwbNkamUxag-Akug9pkh88/view?usp=drive_link)
+📄 [Download my CV (PDF)](https://drive.google.com/file/d/1j_YC12VuKdkY_dQuE8nQrAhRVql_I4RH/view?usp=drive_link)
 
 ---
 
