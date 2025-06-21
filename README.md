@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -152,7 +151,6 @@ Spanish (Native)  ██████████  Fluent
   <p>
     <strong>Email:</strong> <a href="mailto:irvyandl18@gmail.com">irvyandl18@gmail.com</a><br>
     <strong>LinkedIn:</strong> <a href="http://www.linkedin.com/in/irvin-prado-6961b1363">Visit Profile</a><br>
-    <strong>Portfolio Website:</strong> <a href="https://irvyandl.github.io/Portfolio/">irvyandl.github.io/Portfolio</a><br>
     <strong>Download my CV:</strong> <a href="https://drive.google.com/file/d/1j_YC12VuKdkY_dQuE8nQrAhRVql_I4RH/view?usp=drive_link">PDF Link</a>
   </p>
 </section>
